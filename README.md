@@ -3,8 +3,11 @@
 - 기억은 기록을 이길 수 없다.<br>
   미래의 나를 위해 과거를 적는다.
 
-- <a hrep = "https://github.com/namjunemy/TIL"> namjunemy</a> 님의 Github TIL을 참고했다.
+  Link: [namjunemy님의 Github TIL을 참고했다.][namjunemy_github_link]
 
+  [namjunemy_github_link]: https://github.com/namjunemy/TIL "namjunemy님의 github" 
+
+  
 <br>
 <br>
 
