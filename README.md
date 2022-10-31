@@ -4,7 +4,7 @@
   미래의 나를 위해 과거를 적는다.
 
 
-  [namjunemy] (https://github.com/namjunemy/TIL) 님의 Github TIL을 참고했다.
+  [namjunemy](https://github.com/namjunemy/TIL) 님의 Github TIL을 참고했다.
 
   
   
